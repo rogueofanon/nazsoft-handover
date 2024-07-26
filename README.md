@@ -11,6 +11,6 @@ In week 6 we worked with whole slide imaging (WSI), and continued exploring WSI 
 
 From weeks 7 - 10 we started to research and look into how to perform OCR on Jawi text so that it can be recognised and replicated by the computer.
 - We attempted to train PyTesseract using the information in the [PyTesseract documentation](https://tesseract-ocr.github.io/tessdoc/tess5/TrainingTesseract-5.html#introduction). These files can be found in the TesseractTesting folder.
-- 
+- The python files `cropimages.py` and `sample_images.py` are helper functions to allow me to take samples from the provided Word Samples folder.
 
 ---
